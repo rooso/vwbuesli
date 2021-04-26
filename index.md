@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Willkommen im Handbuch zum T3
 
 You can use the [editor on GitHub](https://github.com/rooso/vwbuesli/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
